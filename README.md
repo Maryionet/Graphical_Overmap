@@ -11,7 +11,7 @@ Last updated 2020-7-22
 	
 ### Optional:
   - I would advise disabling the 5x5 location map in the sidebar, as it becomes unreadable by using this mod. Press } to access sidebar options and choose either 'labels' (using the Location Alt panel instead of Location) or 'labels-narrow'.
-  - Feel free to Paint the Overmap.png with your own Colors using paint softwares on playstore i recommenď pixly 
+  - Feel free to Paint the Overmap.png with your own Colors using paint softwares on playstore i recommend pixly.
 	
 ### Issues:
   - **MAJOR: The overmap description box is completely black due to the overmap font size being different to the standard font, unfortunately there's nothing I can do about this until it's fixed.**
