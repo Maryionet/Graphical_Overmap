@@ -1,4 +1,4 @@
-# Graphical Overmap
+# Graphical Overmap Android
 Cataclysm DDA Graphical_Overmap mod <br>
 Gives the overmap a graphical overhaul and color to Android phones.
 
